@@ -1,6 +1,6 @@
 # Student Credits System
 
-This Python project is designed to track students' credits and determine their exam outcomes. Based on the students' credits, the program classifies their progress into four categories: Progress, Progress Trailer, Retriever, and Exclude. Additionally, the project generates a histogram displaying the count of each category using graphics.
+This Python project is designed to track students' credits and determine their exam outcomes. Based on the students' credits, the program classifies their progress into four categories: Progress, Progress Trailer, Retriever, and Exclude. Additionally, the project generates a histogram displaying the count of each category using graphics. This provides txt file also about exam outcomes.
 
 ## Table of Contents
 
