@@ -1,6 +1,6 @@
-# Student Credits System
+# Student Credits System </br>
 
-This Python project is designed to track students' credits and determine their exam outcomes. Based on the students' credits, the program classifies their progress into four categories: Progress, Progress Trailer, Retriever, and Exclude. Additionally, the project generates a histogram displaying the count of each category using graphics. This provides txt file also about exam outcomes.
+This Python project is designed to track students' credits and determine their exam outcomes. Based on the students' credits, the program classifies their progress into four categories: Progress, Progress Trailer, Retriever, and Exclude. Additionally, the project generates a histogram displaying the count of each category using graphics. This provides txt file also about exam outcomes. </br></br>
 
 ## Table of Contents
 
@@ -8,9 +8,8 @@ This Python project is designed to track students' credits and determine their e
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
+- [Contact](#contact) </br></br>
 
 ## Features
 
@@ -22,12 +21,12 @@ This Python project is designed to track students' credits and determine their e
   - Retriever
   - Exclude
 - Generate a histogram displaying the count of each category
-- Use graphics to enhance the visual representation of data
+- Use graphics to enhance the visual representation of data </br></br>
 
 ## Technologies
 
 - Python
-- Matplotlib (for generating histograms)
+- Matplotlib (for generating histograms) </br></br>
 
 ## Installation
 
@@ -36,7 +35,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/Sethumruberu/Student-Credits-System.git
+    git clone https://github.com/Sethumruberu/Students-Credits-System.git
     cd Student-Credits-System
     ```
 
@@ -48,7 +47,7 @@ To run this project locally, follow these steps:
     pip install -r requirements.txt
     ```
 
-    Create a `requirements.txt` file if it doesn't exist and include all the necessary libraries (e.g., matplotlib).
+    Create a `requirements.txt` file if it doesn't exist and include all the necessary libraries (e.g., matplotlib). </br></br>
 
 ## Usage
 
@@ -62,36 +61,12 @@ To run this project locally, follow these steps:
 
 2. **Interact with the program:**
 
-    Follow the on-screen instructions to input student credits and view the categorized progress and the generated histogram.
+    Follow the on-screen instructions to input student credits and view the categorized progress and the generated histogram. </br></br>
 
-## Contributing
-
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. **Fork the repository**
-2. **Create your feature branch:**
-
-    ```sh
-    git checkout -b feature/YourFeature
-    ```
-
-3. **Commit your changes:**
-
-    ```sh
-    git commit -m 'Add some feature'
-    ```
-
-4. **Push to the branch:**
-
-    ```sh
-    git push origin feature/YourFeature
-    ```
-
-5. **Create a new Pull Request**
 
 ## License
 
-This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/).
+This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/). </br></br>
 
 ## Contact
 
