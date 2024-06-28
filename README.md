@@ -1,8 +1,9 @@
 # Student Credits System </br>
 
+## 🤖Overview
 This Python project is designed to track students' credits and determine their exam outcomes. Based on the students' credits, the program classifies their progress into four categories: Progress, Progress Trailer, Retriever, and Exclude. Additionally, the project generates a histogram displaying the count of each category using graphics. This provides txt file also about exam outcomes. </br></br>
 
-## Table of Contents
+## 📋Table of Contents
 
 - [Features](#features)
 - [Technologies](#technologies)
@@ -11,7 +12,7 @@ This Python project is designed to track students' credits and determine their e
 - [License](#license)
 - [Contact](#contact) </br></br>
 
-## Features
+## 🔗Features
 
 - Track students' credits
 - Determine exam outcomes
@@ -23,12 +24,12 @@ This Python project is designed to track students' credits and determine their e
 - Generate a histogram displaying the count of each category
 - Use graphics to enhance the visual representation of data </br></br>
 
-## Technologies
+## ⚙️Technologies
 
 - Python
 - Matplotlib (for generating histograms) </br></br>
 
-## Installation
+## 🛠️Installation
 
 To run this project locally, follow these steps:
 
@@ -49,7 +50,7 @@ To run this project locally, follow these steps:
 
     Create a `requirements.txt` file if it doesn't exist and include all the necessary libraries (e.g., matplotlib). </br></br>
 
-## Usage
+## 🔗Usage
 
 1. **Run the program:**
 
@@ -64,11 +65,11 @@ To run this project locally, follow these steps:
     Follow the on-screen instructions to input student credits and view the categorized progress and the generated histogram. </br></br>
 
 
-## License
+## 📌License
 
 This project is open source and available under the [Sethum Ruberu](https://www.linkedin.com/in/sethum-ruberu-90a369293/). </br></br>
 
-## Contact
+## ☎️Contact
 
 Feel free to reach out if you have any questions or suggestions!
 
